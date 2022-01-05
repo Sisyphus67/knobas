@@ -1,2 +1,2 @@
-# knobas
-knowledge base in html and markdown; preliminary efforts at a fractal filing system
+# KnoBAS
+This is an attempt to create a text based knowledge repo, based on HTML and MD
